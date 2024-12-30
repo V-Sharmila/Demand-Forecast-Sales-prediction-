@@ -16,7 +16,7 @@ This repository contains a project that forecasts sales for a retail dataset usi
   - [3. Machine Learning Models](#3-machine-learning-models)
   - [4. Streamlit Application](#4-streamlit-application)
 - [Results and Metrics](#results-and-metrics)
-- [How to Run](#how-to-run)
+- [Deployment](#deployment)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -119,6 +119,10 @@ The dataset contains historical sales data for various stores and items.
 - **Ensemble MSE**: `_value_`
 
 The ensemble approach demonstrated improved performance by leveraging the strengths of both Random Forest and Gradient Boosting models.
+
+---
+##**Deployment**
+![image](https://github.com/user-attachments/assets/24e23c86-b692-4748-bbf3-adcda74b44a4)
 
 ---
 
