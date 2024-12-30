@@ -121,7 +121,8 @@ The dataset contains historical sales data for various stores and items.
 The ensemble approach demonstrated improved performance by leveraging the strengths of both Random Forest and Gradient Boosting models.
 
 ---
-##**Deployment**
+## **Deployment**
+
 ![image](https://github.com/user-attachments/assets/24e23c86-b692-4748-bbf3-adcda74b44a4)
 
 ---
